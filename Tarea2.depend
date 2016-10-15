@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1476484460 source:/Users/mac/Documents/Hola/Tarea2/main.cpp
+	"Evaluador.h"
+	<iostream>
+
+1476484425 /Users/mac/Documents/Hola/Tarea2/include/Evaluador.h
+	<iostream>
+	<stack>
+
+1476483439 source:/Users/mac/Documents/Hola/Tarea2/src/Evaluador.cpp
+	"Evaluador.h"
+
